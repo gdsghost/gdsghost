@@ -14,7 +14,7 @@
 
 <p>
   <em>
-    I am a 2nd Year undergraduate from <a href="https://uom.lk/"> <b>University of Moratuwa</b>, Sri Lanka</a>. <br>
+    I am a 3rd Year undergraduate from <a href="https://uom.lk/"> <b>University of Moratuwa</b>, Sri Lanka</a>. <br>
     <b>I am a friendly Developer</b> <img src="https://github.com/gdsghost/gdsghost/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning Enthusiast,</b>&nbsp;<img src="https://github.com/gdsghost/gdsghost/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/gdsghost/gdsghost/blob/master/Assets/Rocket.gif" width="18px">and 
