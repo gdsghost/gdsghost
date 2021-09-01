@@ -19,7 +19,7 @@
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/gdsghost/gdsghost/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/gdsghost/gdsghost/blob/master/Assets/Medal.gif" width="20px"> <br>
-    Visit my Portfolio Website at <a href="http://sudamyasodya.me/"><b>sudamyasodya.me</b></a>.<br>
+    Visit my Portfolio Website at <a href="https://sudamyasodya.ml/"><b>sudamyasodya.ml</b></a>.<br>
     I Love <b>Web Development</b>, xD. <br>
   </em>  
 </p>
