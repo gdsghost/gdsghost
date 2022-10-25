@@ -26,7 +26,7 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 - <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Web Development**💪.
 - <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/hmm.gif" width="20vw" /> Currently Learning **Python**💪 and working on **Data Structures** and **Algorithm**👨‍💻.
 - <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Machine Learning & Python 🐍 projects**.
