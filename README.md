@@ -27,12 +27,12 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Web Development**💪.
-- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/hmm.gif" width="20vw" /> Currently Learning **Python**💪 and working on **Data Structures** and **Algorithm**👨‍💻.
-- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Machine Learning & Python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Machine Learning** and **Open CV**🌐
-- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/wave.gif" width="20vw" /> Visit my Portfolio Website at <a href="https://sudamyasodya.ml/"><b>sudamyasodya.ml</b></a>👨‍💻 and do suggest me how to improve it.
-- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
+- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/gandalf_parrot.gif" width="20px" /> I’m **good** in **Web Development**💪.
+- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/hmm.gif" width="20px" /> Currently Learning **Python**💪 and working on **Data Structures** and **Algorithm**👨‍💻.
+- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **Machine Learning & Python 🐍 projects**.
+- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/hmm.gif" width="20px" /> I Love **Machine Learning** and **Open CV**🌐
+- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/wave.gif" width="20px" /> Visit my Portfolio Website at <a href="https://sudamyasodya.ml/"><b>sudamyasodya.ml</b></a>👨‍💻 and do suggest me how to improve it.
+- <img alt="GIF" src="https://github.com/gdsghost/gdsghost/blob/master/Assets/Medal.gif" width="20px" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
 
 ## Spotify Playing 🎧
